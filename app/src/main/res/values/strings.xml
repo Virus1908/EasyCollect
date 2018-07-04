@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EasyCollect</string>
+    <string name="take_photo">Take photo</string>
+    <string name="no_permissions_text">Need camera and write to external storage permission</string>
+    <string name="no_permissions_title">Error</string>
+    <string name="ok">OK</string>
+    <string name="confirm_permissions_text">Please give camera and write to external storage permission</string>
+    <string name="success">Success</string>
+    <string name="error">Error</string>
+</resources>
